@@ -1,0 +1,14 @@
+C:\Users\kalan\OneDrive\Desktop\Project\K-Point\server\target\release\deps\serde-4753a59cc542f95c.d: C:\Users\kalan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\kalan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\kalan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\kalan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\kalan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\kalan\OneDrive\Desktop\Project\K-Point\server\target\release\build\serde-0904142beeccba7d\out/private.rs
+
+C:\Users\kalan\OneDrive\Desktop\Project\K-Point\server\target\release\deps\libserde-4753a59cc542f95c.rlib: C:\Users\kalan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\kalan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\kalan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\kalan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\kalan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\kalan\OneDrive\Desktop\Project\K-Point\server\target\release\build\serde-0904142beeccba7d\out/private.rs
+
+C:\Users\kalan\OneDrive\Desktop\Project\K-Point\server\target\release\deps\libserde-4753a59cc542f95c.rmeta: C:\Users\kalan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\kalan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\kalan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\kalan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\kalan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\kalan\OneDrive\Desktop\Project\K-Point\server\target\release\build\serde-0904142beeccba7d\out/private.rs
+
+C:\Users\kalan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs:
+C:\Users\kalan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs:
+C:\Users\kalan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs:
+C:\Users\kalan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs:
+C:\Users\kalan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs:
+C:\Users\kalan\OneDrive\Desktop\Project\K-Point\server\target\release\build\serde-0904142beeccba7d\out/private.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\kalan\\OneDrive\\Desktop\\Project\\K-Point\\server\\target\\release\\build\\serde-0904142beeccba7d\\out
